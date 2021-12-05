@@ -1,3 +1,5 @@
 # CJCU-
 12/3 練習文字探勘、與情分析 
-檔案:TextOperation.py
+檔案:
+文字分析斷句類別產生:TextOperation.py
+文件解析，抓取PTT資料:SimpleWebCrawler.py
